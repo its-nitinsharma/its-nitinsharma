@@ -21,6 +21,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=its-nitinsharma&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=its-nitinsharma&style=flat-square&color=00ff88&label=visitors)](https://github.com/its-nitinsharma)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
