@@ -27,7 +27,7 @@
 <div align="center">
 
 ```
-"Security should scale like code — and fail loudly."
+                    "Security should scale like code — and fail loudly."
 ```
 
 *If you're into AI security, Zero Trust, or breaking bad architectures — you're in the right place.*
