@@ -4,7 +4,7 @@
 ```
 ┌─────────────────────────────────────────────────────────┐
 │  Nitin Sharma · Sr. cloud solution architect            │
-│  Security · Identity · Ai  ·  Microsoft Emea · 🇳🇱 nl   │
+│  🔐 Security ·Identity· Ai · Microsoft 🌍EMEA· 🇳🇱 nl   │
 └─────────────────────────────────────────────────────────┘
 ```
 
