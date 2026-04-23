@@ -1,5 +1,7 @@
 # 💫 About Me:
-<br>🔐 Sr. Cloud Solution Architect | Security, Identity & AI<br>☁️ Microsoft | 🌍 EMEA | 🇳🇱 NL<br><br>I design and break enterprise-scale security architectures—then rebuild them with Zero Trust, XDR, SIEM, and AI (safely).<br><br>🛠️ Tech I Live In<br>Identity is the control plane. Detection is the feedback loop. AI accelerates both.<br><br>
+<br>🔐 Sr. Cloud Solution Architect | Security, Identity & AI<br>☁️ Microsoft | 🌍 EMEA | 🇳🇱 NL<br><br>I design and break enterprise-scale security architectures—then rebuild them with Zero Trust, XDR, SIEM, and AI (safely).<br><br>
+
+🛠️ Tech I Live In<br>Identity is the control plane. Detection is the feedback loop. AI accelerates both.<br><br>
 
 🤖 AI Security (The Fun Stuff)<br>Secure-by-design Copilot & AI agent adoption<br>Agent identity lifecycle and governance<br>Prompt visibility, audit trails, risk ownership<br>Zero Trust models for the digital workforce<br>
 
