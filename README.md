@@ -23,4 +23,15 @@
 ---
 [![Profile Views](https://komarev.com/ghpvc/?username=its-nitinsharma&style=flat-square&color=00ff88&label=visitors)](https://github.com/its-nitinsharma)
 
+
+<div align="center">
+
+```
+"Security should scale like code — and fail loudly."
+```
+
+*If you're into AI security, Zero Trust, or breaking bad architectures — you're in the right place.*
+
+</div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
