@@ -9,7 +9,7 @@
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/its-nitinsharma)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/its-nitinsharma)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/its_sharmanitinitin)
 [![Profile Views](https://komarev.com/ghpvc/?username=its-nitinsharma&style=flat-square&color=00ff88&label=visitors)](https://github.com/its-nitinsharma)
 
 </div>
